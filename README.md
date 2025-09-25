@@ -20,15 +20,6 @@ I develop **React Native applications** that are fast, intuitive, and solve real
 </div>
 
 
-<!-- <div>
-  <!-- GitHub Contribution Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kushgr-shrma&show_icons=true&hide_border=true&theme=tokyonight" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushgr-shrma&layout=compact&hide_border=true&theme=tokyonight" />
-</div> -->
-
-
 ## 📄 Resume
 here i will use download/preview feature for resume
 
