@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra Sharma</h1>
 <h3 align="center">💻 React Native Developer | Mobile-First Enthusiast</h3>
 
---
+---
 
 ## 🛠️ Tech Stack
 
@@ -17,8 +17,6 @@
   <img align="left" alt="JavaScript" width="40" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="left" alt="JavaScript" width="40" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
-
---
 
 ## 🌐 Connect with Me  
 
