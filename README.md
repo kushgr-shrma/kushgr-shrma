@@ -7,12 +7,14 @@
 
 ### Languages
 <p align="left">
-  <p align="center" style="margin: 0 20px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript
-  </p>
-  <p align="center" style="margin: 0 20px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript
-  </p>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>
+    JavaScript
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br>
+    TypeScript
+  </div>
 </p>
 
 ### 📱 Mobile  
