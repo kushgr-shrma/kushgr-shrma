@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra Sharma</h1>
 <h3 align="center">React Native Developer | Mobile-First Enthusiast</h3>
 
-I build **mobile-first applications using React Native** that are fast, intuitive, and user-friendly. I focus on creating solutions that **add real value to users and businesses** by solving problems efficiently. I believe in clean code, continuous learning, and delivering projects with **performance, scalability, and reliability** in mind.
+I develop **React Native applications** that are fast, intuitive, and solve real-world problems. I focus on delivering clean, maintainable code and reliable solutions. Currently, I am exploring **full-stack mobile development, mobile app architecture, and performance optimization** to further enhance my skills.
 
 
 ## 🛠️ Tech Stack
@@ -20,13 +20,13 @@ I build **mobile-first applications using React Native** that are fast, intuitiv
 </div>
 
 
-<div align="center">
+<!-- <div>
   <!-- GitHub Contribution Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kushgr-shrma&show_icons=true&hide_border=true&theme=tokyonight" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushgr-shrma&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
+</div> -->
 
 
 ## 📄 Resume
@@ -40,6 +40,6 @@ here i will use download/preview feature for resume
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:kushgr.shrma@gmail.com" style="margin: 0 15px;">
-    <img width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
   </a>
 </div>
