@@ -31,6 +31,6 @@ here i will use download/preview feature for resume
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:kushgr.shrma@gmail.com" style="margin: 0 15px;">
-    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" />
+    <img width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </div>
