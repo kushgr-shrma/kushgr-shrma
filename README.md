@@ -20,6 +20,15 @@ I build **mobile-first applications using React Native** that are fast, intuitiv
 </div>
 
 
+<div align="center">
+  <!-- GitHub Contribution Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kushgr-shrma&show_icons=true&hide_border=true&theme=tokyonight" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushgr-shrma&layout=compact&hide_border=true&theme=tokyonight" />
+</div>
+
+
 ## 📄 Resume
 here i will use download/preview feature for resume
 
