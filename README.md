@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra Sharma</h1>
-<h3 align="center">💻 React Native Developer | Mobile-First Enthusiast</h3>
+<h3 align="center">React Native Developer | Mobile-First Enthusiast</h3>
+
+I build **mobile-first applications using React Native** that are fast, intuitive, and user-friendly. I focus on creating solutions that **add real value to users and businesses** by solving problems efficiently. I believe in clean code, continuous learning, and delivering projects with **performance, scalability, and reliability** in mind.
 
 
 ## 🛠️ Tech Stack
@@ -16,6 +18,16 @@
   <img alt="GitHub" width="40" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Android Studio" width="40" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
+
+
+<div align="center">
+  <!-- GitHub Contribution Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kushagr-shrma&show_icons=true&hide_border=true&theme=tokyonight" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagr-shrma&layout=compact&hide_border=true&theme=tokyonight" />
+</div>
+
 
 
 ## 🌐 Connect with Me  
