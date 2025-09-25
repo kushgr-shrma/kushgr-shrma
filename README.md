@@ -6,14 +6,14 @@
 ## 🛠️ Tech Stack  
 
 ### Languages
-<div align="left">
-  <div align="center" style="margin: 0 20px">
+<p align="left">
+  <p align="center" style="margin: 0 20px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript
-  </div>
-  <div align="center" style="margin: 0 20px">
+  </p>
+  <p align="center" style="margin: 0 20px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript
-  </div>
-</div>
+  </p>
+</p>
 
 ### 📱 Mobile  
 <p align="center">
