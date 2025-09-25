@@ -1,7 +1,7 @@
 ## Hi I'm Kushagra 👋
 
-🚀 React Native Developer | Full-Stack Mobile Enthusiast
-💡 Passionate about building impactful mobile applications with clean code & modern tech.
+-🚀 React Native Developer | Full-Stack Mobile Enthusiast
+-💡 Passionate about building impactful mobile applications with clean code & modern tech.
 
 ## 🛠️ Tech Stack
 
