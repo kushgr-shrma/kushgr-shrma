@@ -6,8 +6,8 @@
 ## 🛠️ Tech Stack  
 
 ### 📝 Languages  
-<p align="center">
-  <div align="center">
+<p align="left" >
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript
   </div>
   <div align="center" style="display:inline-block; margin: 0 20px;">
